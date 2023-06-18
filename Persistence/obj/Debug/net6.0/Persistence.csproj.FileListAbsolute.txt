@@ -1,0 +1,17 @@
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Application.dll
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Domain.dll
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Application.pdb
+D:\react\udemy\Demo\BackEndactivitie\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\react\udemy\Demo\BackEndactivitie\Persistence\obj\Debug\net6.0\ref\Persistence.dll
